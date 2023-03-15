@@ -10,3 +10,8 @@ I'm WEB-Developer (Front-End), if you want to contact with me, you can follow in
 <a href='https://vk.com/angel_c_nebec'>
     <img src='https://avatars.mds.yandex.net/i?id=cd21c7bc331170ff81e8c0ea9a513d1ef7fdba4b-8497057-images-thumbs&n=13' width='30px' />
 </a>
+<br />
+<br />
+### Languages and tools with which i work: 
+
+<code><img src='https://avatars.mds.yandex.net/i?id=a24a945972f4dc64f7a4399c277f6be94b3b9ea9-8210619-images-thumbs&n=13' /></code>
