@@ -14,4 +14,4 @@ I'm WEB-Developer (Front-End), if you want to contact with me, you can follow in
 <br />
 Languages and tools with which i work: 
 
-<code><img src='https://avatars.mds.yandex.net/i?id=a24a945972f4dc64f7a4399c277f6be94b3b9ea9-8210619-images-thumbs&n=13' width='30px' /></code>
+<code><img src='https://avatars.mds.yandex.net/i?id=9acd0c88516141fe6b9200129f312209ce1c868f-5888798-images-thumbs&n=13' width='30px' /></code>
