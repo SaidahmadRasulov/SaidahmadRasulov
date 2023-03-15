@@ -15,3 +15,7 @@ I'm WEB-Developer (Front-End), if you want to contact with me, you can follow in
 Languages and tools with which i work: 
 
 <code><img src='https://avatars.mds.yandex.net/i?id=34780652a5a73727732e6eb1269a52350fb53dd2-6977815-images-thumbs&n=13' width='30px' /></code>
+<code><img src='https://avatars.mds.yandex.net/i?id=692a709ad069071951cea1bb96ed4068b5b9c7b1-8342321-images-thumbs&n=13' width='30px' /></code>
+<code><img src='https://avatars.mds.yandex.net/i?id=34780652a5a73727732e6eb1269a52350fb53dd2-6977815-images-thumbs&n=13' width='30px' /></code>
+<code><img src='https://avatars.mds.yandex.net/i?id=34780652a5a73727732e6eb1269a52350fb53dd2-6977815-images-thumbs&n=13' width='30px' /></code>
+<code><img src='https://avatars.mds.yandex.net/i?id=34780652a5a73727732e6eb1269a52350fb53dd2-6977815-images-thumbs&n=13' width='30px' /></code>
