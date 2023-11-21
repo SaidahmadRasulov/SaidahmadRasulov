@@ -1,13 +1,13 @@
 ### Hi, I'm Saidahmad Rasulov 🧑‍💻
 I'm WEB-Developer (Front-End), if you want to contact with me, you can follow in my some link under profile!
 
-<a href='https://t.me/Rasulov_57'>
+<a href='https://t.me/Rasulov_57' target='_blank'>
     <img src='https://avatars.mds.yandex.net/i?id=a5ca45ebc1978fac6470427e1cfe8b00ba9df5ca-9237877-images-thumbs&n=13' width='30px' />
 </a>
-<a href='https://www.instagram.com/_rasulov_.07'>
-    <img src='https://www.clipartmax.com/png/middle/124-1243791_social-media-logo-computer-icons-social-media-hd-icons.png' width='30px' />
+<a href='https://www.instagram.com/_rasulov_.07' target='_blank'>
+    <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Finstagram-logo-png&psig=AOvVaw25uFB3f-RX7kO_sYLBVIJx&ust=1700654901735000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiZ5bCH1YIDFQAAAAAdAAAAABAE' width='30px' />
 </a>
-<a href='https://vk.com/angel_c_nebec'>
+<a href='https://vk.com/angel_c_nebec' target='_blank'>
     <img src='https://avatars.mds.yandex.net/i?id=cd21c7bc331170ff81e8c0ea9a513d1ef7fdba4b-8497057-images-thumbs&n=13' width='30px' />
 </a>
 <br />
