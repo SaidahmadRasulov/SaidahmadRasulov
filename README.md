@@ -5,7 +5,7 @@ I'm WEB-Developer (Front-End), if you want to contact with me, you can follow in
     <img src='https://avatars.mds.yandex.net/i?id=a5ca45ebc1978fac6470427e1cfe8b00ba9df5ca-9237877-images-thumbs&n=13' width='30px' />
 </a>
 <a href='https://www.instagram.com/_rasulov_.07' target='_blank'>
-    <img src='https://avatars.mds.yandex.net/i?id=6c469741206b0cf8b09a59c002f5b17f41e25ef9-10397524-images-thumbs&n=13' width='30px' />
+    <img src='https://avatars.mds.yandex.net/i?id=d0f4abed7a73142a485199da34c7c3491ac9e7b3-10132637-images-thumbs&n=13' width='30px' />
 </a>
 <a href='https://vk.com/angel_c_nebec' target='_blank'>
     <img src='https://avatars.mds.yandex.net/i?id=cd21c7bc331170ff81e8c0ea9a513d1ef7fdba4b-8497057-images-thumbs&n=13' width='30px' />
